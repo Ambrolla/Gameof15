@@ -1,0 +1,21 @@
+body {
+  background: #eeebdd;
+  text-align: center;
+}
+
+canvas {
+  background: rosybrown;
+  margin: 20px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+/* .canvasdiv {
+  display: flex;
+} */
+
+#canvas {
+  border: 2px solid #6b4f4f;
+}
